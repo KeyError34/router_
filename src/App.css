@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  appearance: none;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration-line: none;
+  font-family: 'Montserrat', sans-serif;
+  color: rgb(9, 8, 8);
+  border: none;
+}
+.App {
+  background-color: #f7d7df;
+  width: 100%;
+  height: 100vh;
+}
